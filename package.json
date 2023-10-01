@@ -9,5 +9,7 @@
     "url": "git://github.com/densyy/densyy-token"
   },
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
 }
